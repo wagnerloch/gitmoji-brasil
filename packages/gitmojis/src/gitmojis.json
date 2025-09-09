@@ -2,7 +2,7 @@
   "$schema": "https://gitmoji.dev/api/gitmojis/schema",
   "gitmojis": [
     {
-      "emoji": "🎨",
+      "emoji": "🇧🇷",
       "entity": "&#x1f3a8;",
       "code": ":art:",
       "description": "Improve structure / format of the code.",
@@ -10,7 +10,7 @@
       "semver": null
     },
     {
-      "emoji": "⚡️",
+      "emoji": "🇧🇷",
       "entity": "&#x26a1;",
       "code": ":zap:",
       "description": "Improve performance.",
@@ -18,7 +18,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔥",
+      "emoji": "🇧🇷",
       "entity": "&#x1f525;",
       "code": ":fire:",
       "description": "Remove code or files.",
@@ -26,7 +26,7 @@
       "semver": null
     },
     {
-      "emoji": "🐛",
+      "emoji": "🇧🇷",
       "entity": "&#x1f41b;",
       "code": ":bug:",
       "description": "Fix a bug.",
@@ -34,7 +34,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🚑️",
+      "emoji": "🇧🇷",
       "entity": "&#128657;",
       "code": ":ambulance:",
       "description": "Critical hotfix.",
@@ -42,7 +42,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "✨",
+      "emoji": "🇧🇷",
       "entity": "&#x2728;",
       "code": ":sparkles:",
       "description": "Introduce new features.",
@@ -50,7 +50,7 @@
       "semver": "minor"
     },
     {
-      "emoji": "📝",
+      "emoji": "🇧🇷",
       "entity": "&#x1f4dd;",
       "code": ":memo:",
       "description": "Add or update documentation.",
@@ -58,7 +58,7 @@
       "semver": null
     },
     {
-      "emoji": "🚀",
+      "emoji": "🇧🇷",
       "entity": "&#x1f680;",
       "code": ":rocket:",
       "description": "Deploy stuff.",
@@ -66,7 +66,7 @@
       "semver": null
     },
     {
-      "emoji": "💄",
+      "emoji": "🇧🇷",
       "entity": "&#ff99cc;",
       "code": ":lipstick:",
       "description": "Add or update the UI and style files.",
@@ -74,7 +74,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🎉",
+      "emoji": "🇧🇷",
       "entity": "&#127881;",
       "code": ":tada:",
       "description": "Begin a project.",
@@ -82,7 +82,7 @@
       "semver": null
     },
     {
-      "emoji": "✅",
+      "emoji": "🇧🇷",
       "entity": "&#x2705;",
       "code": ":white_check_mark:",
       "description": "Add, update, or pass tests.",
@@ -90,7 +90,7 @@
       "semver": null
     },
     {
-      "emoji": "🔒️",
+      "emoji": "🇧🇷",
       "entity": "&#x1f512;",
       "code": ":lock:",
       "description": "Fix security or privacy issues.",
@@ -98,7 +98,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔐",
+      "emoji": "🇧🇷",
       "entity": "&#x1f510;",
       "code": ":closed_lock_with_key:",
       "description": "Add or update secrets.",
@@ -106,7 +106,7 @@
       "semver": null
     },
     {
-      "emoji": "🔖",
+      "emoji": "🇧🇷",
       "entity": "&#x1f516;",
       "code": ":bookmark:",
       "description": "Release / Version tags.",
@@ -114,7 +114,7 @@
       "semver": null
     },
     {
-      "emoji": "🚨",
+      "emoji": "🇧🇷",
       "entity": "&#x1f6a8;",
       "code": ":rotating_light:",
       "description": "Fix compiler / linter warnings.",
@@ -122,7 +122,7 @@
       "semver": null
     },
     {
-      "emoji": "🚧",
+      "emoji": "🇧🇷",
       "entity": "&#x1f6a7;",
       "code": ":construction:",
       "description": "Work in progress.",
@@ -130,7 +130,7 @@
       "semver": null
     },
     {
-      "emoji": "💚",
+      "emoji": "🇧🇷",
       "entity": "&#x1f49a;",
       "code": ":green_heart:",
       "description": "Fix CI Build.",
@@ -138,7 +138,7 @@
       "semver": null
     },
     {
-      "emoji": "⬇️",
+      "emoji": "🇧🇷",
       "entity": "⬇️",
       "code": ":arrow_down:",
       "description": "Downgrade dependencies.",
@@ -146,7 +146,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "⬆️",
+      "emoji": "🇧🇷",
       "entity": "⬆️",
       "code": ":arrow_up:",
       "description": "Upgrade dependencies.",
@@ -154,7 +154,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "📌",
+      "emoji": "🇧🇷",
       "entity": "&#x1F4CC;",
       "code": ":pushpin:",
       "description": "Pin dependencies to specific versions.",
@@ -162,7 +162,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "👷",
+      "emoji": "🇧🇷",
       "entity": "&#x1f477;",
       "code": ":construction_worker:",
       "description": "Add or update CI build system.",
@@ -170,7 +170,7 @@
       "semver": null
     },
     {
-      "emoji": "📈",
+      "emoji": "🇧🇷",
       "entity": "&#x1F4C8;",
       "code": ":chart_with_upwards_trend:",
       "description": "Add or update analytics or track code.",
@@ -178,7 +178,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "♻️",
+      "emoji": "🇧🇷",
       "entity": "&#x267b;",
       "code": ":recycle:",
       "description": "Refactor code.",
@@ -186,7 +186,7 @@
       "semver": null
     },
     {
-      "emoji": "➕",
+      "emoji": "🇧🇷",
       "entity": "&#10133;",
       "code": ":heavy_plus_sign:",
       "description": "Add a dependency.",
@@ -194,7 +194,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "➖",
+      "emoji": "🇧🇷",
       "entity": "&#10134;",
       "code": ":heavy_minus_sign:",
       "description": "Remove a dependency.",
@@ -202,7 +202,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔧",
+      "emoji": "🇧🇷",
       "entity": "&#x1f527;",
       "code": ":wrench:",
       "description": "Add or update configuration files.",
@@ -210,7 +210,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔨",
+      "emoji": "🇧🇷",
       "entity": "&#128296;",
       "code": ":hammer:",
       "description": "Add or update development scripts.",
@@ -218,7 +218,7 @@
       "semver": null
     },
     {
-      "emoji": "🌐",
+      "emoji": "🇧🇷",
       "entity": "&#127760;",
       "code": ":globe_with_meridians:",
       "description": "Internationalization and localization.",
@@ -226,7 +226,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "✏️",
+      "emoji": "🇧🇷",
       "entity": "&#59161;",
       "code": ":pencil2:",
       "description": "Fix typos.",
@@ -234,7 +234,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "💩",
+      "emoji": "🇧🇷",
       "entity": "&#58613;",
       "code": ":poop:",
       "description": "Write bad code that needs to be improved.",
@@ -242,7 +242,7 @@
       "semver": null
     },
     {
-      "emoji": "⏪️",
+      "emoji": "🇧🇷",
       "entity": "&#9194;",
       "code": ":rewind:",
       "description": "Revert changes.",
@@ -250,7 +250,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔀",
+      "emoji": "🇧🇷",
       "entity": "&#128256;",
       "code": ":twisted_rightwards_arrows:",
       "description": "Merge branches.",
@@ -258,7 +258,7 @@
       "semver": null
     },
     {
-      "emoji": "📦️",
+      "emoji": "🇧🇷",
       "entity": "&#1F4E6;",
       "code": ":package:",
       "description": "Add or update compiled files or packages.",
@@ -266,7 +266,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "👽️",
+      "emoji": "🇧🇷",
       "entity": "&#1F47D;",
       "code": ":alien:",
       "description": "Update code due to external API changes.",
@@ -274,7 +274,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🚚",
+      "emoji": "🇧🇷",
       "entity": "&#1F69A;",
       "code": ":truck:",
       "description": "Move or rename resources (e.g.: files, paths, routes).",
@@ -282,7 +282,7 @@
       "semver": null
     },
     {
-      "emoji": "📄",
+      "emoji": "🇧🇷",
       "entity": "&#1F4C4;",
       "code": ":page_facing_up:",
       "description": "Add or update license.",
@@ -290,7 +290,7 @@
       "semver": null
     },
     {
-      "emoji": "💥",
+      "emoji": "🇧🇷",
       "entity": "&#x1f4a5;",
       "code": ":boom:",
       "description": "Introduce breaking changes.",
@@ -298,7 +298,7 @@
       "semver": "major"
     },
     {
-      "emoji": "🍱",
+      "emoji": "🇧🇷",
       "entity": "&#1F371",
       "code": ":bento:",
       "description": "Add or update assets.",
@@ -306,7 +306,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "♿️",
+      "emoji": "🇧🇷",
       "entity": "&#9855;",
       "code": ":wheelchair:",
       "description": "Improve accessibility.",
@@ -314,7 +314,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "💡",
+      "emoji": "🇧🇷",
       "entity": "&#128161;",
       "code": ":bulb:",
       "description": "Add or update comments in source code.",
@@ -322,7 +322,7 @@
       "semver": null
     },
     {
-      "emoji": "🍻",
+      "emoji": "🇧🇷",
       "entity": "&#x1f37b;",
       "code": ":beers:",
       "description": "Write code drunkenly.",
@@ -330,7 +330,7 @@
       "semver": null
     },
     {
-      "emoji": "💬",
+      "emoji": "🇧🇷",
       "entity": "&#128172;",
       "code": ":speech_balloon:",
       "description": "Add or update text and literals.",
@@ -338,7 +338,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🗃️",
+      "emoji": "🇧🇷",
       "entity": "&#128451;",
       "code": ":card_file_box:",
       "description": "Perform database related changes.",
@@ -346,7 +346,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔊",
+      "emoji": "🇧🇷",
       "entity": "&#128266;",
       "code": ":loud_sound:",
       "description": "Add or update logs.",
@@ -354,7 +354,7 @@
       "semver": null
     },
     {
-      "emoji": "🔇",
+      "emoji": "🇧🇷",
       "entity": "&#128263;",
       "code": ":mute:",
       "description": "Remove logs.",
@@ -362,7 +362,7 @@
       "semver": null
     },
     {
-      "emoji": "👥",
+      "emoji": "🇧🇷",
       "entity": "&#128101;",
       "code": ":busts_in_silhouette:",
       "description": "Add or update contributor(s).",
@@ -370,7 +370,7 @@
       "semver": null
     },
     {
-      "emoji": "🚸",
+      "emoji": "🇧🇷",
       "entity": "&#128696;",
       "code": ":children_crossing:",
       "description": "Improve user experience / usability.",
@@ -378,7 +378,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🏗️",
+      "emoji": "🇧🇷",
       "entity": "&#1f3d7;",
       "code": ":building_construction:",
       "description": "Make architectural changes.",
@@ -386,7 +386,7 @@
       "semver": null
     },
     {
-      "emoji": "📱",
+      "emoji": "🇧🇷",
       "entity": "&#128241;",
       "code": ":iphone:",
       "description": "Work on responsive design.",
@@ -394,7 +394,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🤡",
+      "emoji": "🇧🇷",
       "entity": "&#129313;",
       "code": ":clown_face:",
       "description": "Mock things.",
@@ -402,7 +402,7 @@
       "semver": null
     },
     {
-      "emoji": "🥚",
+      "emoji": "🇧🇷",
       "entity": "&#129370;",
       "code": ":egg:",
       "description": "Add or update an easter egg.",
@@ -410,7 +410,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🙈",
+      "emoji": "🇧🇷",
       "entity": "&#8bdfe7;",
       "code": ":see_no_evil:",
       "description": "Add or update a .gitignore file.",
@@ -418,7 +418,7 @@
       "semver": null
     },
     {
-      "emoji": "📸",
+      "emoji": "🇧🇷",
       "entity": "&#128248;",
       "code": ":camera_flash:",
       "description": "Add or update snapshots.",
@@ -426,7 +426,7 @@
       "semver": null
     },
     {
-      "emoji": "⚗️",
+      "emoji": "🇧🇷",
       "entity": "&#x2697;",
       "code": ":alembic:",
       "description": "Perform experiments.",
@@ -434,7 +434,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🔍️",
+      "emoji": "🇧🇷",
       "entity": "&#128269;",
       "code": ":mag:",
       "description": "Improve SEO.",
@@ -442,7 +442,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🏷️",
+      "emoji": "🇧🇷",
       "entity": "&#127991;",
       "code": ":label:",
       "description": "Add or update types.",
@@ -450,7 +450,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🌱",
+      "emoji": "🇧🇷",
       "entity": "&#127793;",
       "code": ":seedling:",
       "description": "Add or update seed files.",
@@ -458,7 +458,7 @@
       "semver": null
     },
     {
-      "emoji": "🚩",
+      "emoji": "🇧🇷",
       "entity": "&#x1F6A9;",
       "code": ":triangular_flag_on_post:",
       "description": "Add, update, or remove feature flags.",
@@ -466,7 +466,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🥅",
+      "emoji": "🇧🇷",
       "entity": "&#x1F945;",
       "code": ":goal_net:",
       "description": "Catch errors.",
@@ -474,7 +474,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "💫",
+      "emoji": "🇧🇷",
       "entity": "&#x1f4ab;",
       "code": ":dizzy:",
       "description": "Add or update animations and transitions.",
@@ -482,7 +482,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🗑️",
+      "emoji": "🇧🇷",
       "entity": "&#x1F5D1;",
       "code": ":wastebasket:",
       "description": "Deprecate code that needs to be cleaned up.",
@@ -490,7 +490,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🛂",
+      "emoji": "🇧🇷",
       "entity": "&#x1F6C2;",
       "code": ":passport_control:",
       "description": "Work on code related to authorization, roles and permissions.",
@@ -498,7 +498,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🩹",
+      "emoji": "🇧🇷",
       "entity": "&#x1FA79;",
       "code": ":adhesive_bandage:",
       "description": "Simple fix for a non-critical issue.",
@@ -506,7 +506,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🧐",
+      "emoji": "🇧🇷",
       "entity": "&#x1F9D0;",
       "code": ":monocle_face:",
       "description": "Data exploration/inspection.",
@@ -514,7 +514,7 @@
       "semver": null
     },
     {
-      "emoji": "⚰️",
+      "emoji": "🇧🇷",
       "entity": "&#x26B0;",
       "code": ":coffin:",
       "description": "Remove dead code.",
@@ -522,7 +522,7 @@
       "semver": null
     },
     {
-      "emoji": "🧪",
+      "emoji": "🇧🇷",
       "entity": "&#x1F9EA;",
       "code": ":test_tube:",
       "description": "Add a failing test.",
@@ -530,7 +530,7 @@
       "semver": null
     },
     {
-      "emoji": "👔",
+      "emoji": "🇧🇷",
       "entity": "&#128084;",
       "code": ":necktie:",
       "description": "Add or update business logic.",
@@ -538,7 +538,7 @@
       "semver": "patch"
     },
     {
-      "emoji": "🩺",
+      "emoji": "🇧🇷",
       "entity": "&#x1FA7A;",
       "code": ":stethoscope:",
       "description": "Add or update healthcheck.",
@@ -546,7 +546,7 @@
       "semver": null
     },
     {
-      "emoji": "🧱",
+      "emoji": "🇧🇷",
       "entity": "&#x1f9f1;",
       "code": ":bricks:",
       "description": "Infrastructure related changes.",
@@ -554,7 +554,7 @@
       "semver": null
     },
     {
-      "emoji": "🧑‍💻",
+      "emoji": "🇧🇷",
       "entity": "&#129489;&#8205;&#128187;",
       "code": ":technologist:",
       "description": "Improve developer experience.",
@@ -562,7 +562,7 @@
       "semver": null
     },
     {
-      "emoji": "💸",
+      "emoji": "🇧🇷",
       "entity": "&#x1F4B8;",
       "code": ":money_with_wings:",
       "description": "Add sponsorships or money related infrastructure.",
@@ -570,7 +570,7 @@
       "semver": null
     },
     {
-      "emoji": "🧵",
+      "emoji": "🇧🇷",
       "entity": "&#x1F9F5;",
       "code": ":thread:",
       "description": "Add or update code related to multithreading or concurrency.",
@@ -578,7 +578,7 @@
       "semver": null
     },
     {
-      "emoji": "🦺",
+      "emoji": "🇧🇷",
       "entity": "&#x1F9BA;",
       "code": ":safety_vest:",
       "description": "Add or update code related to validation.",
@@ -586,7 +586,7 @@
       "semver": null
     },
     {
-      "emoji": "✈️",
+      "emoji": "🇧🇷",
       "entity": "&#x2708;",
       "code": ":airplane:",
       "description": "Improve offline support.",
